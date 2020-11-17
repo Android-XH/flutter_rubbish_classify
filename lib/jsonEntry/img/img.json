@@ -1,0 +1,50 @@
+{
+       "ret": 200,
+       "data": [
+         {
+             "score": 0.974328,
+             "keyword": "花卉",
+             "list": [
+               {
+                   "name": "花卉",
+                   "category": "湿垃圾"
+                 },
+               {
+                   "name": "花卉绿植",
+                   "category": "湿垃圾"
+                 },
+               {
+                   "name": "花卉肥料",
+                   "category": "干垃圾"
+                 },
+               {
+                   "name": "家庭花卉",
+                   "category": "湿垃圾"
+                 },
+               {
+                   "name": "家养花卉",
+                   "category": "湿垃圾"
+                 },
+               {
+                   "name": "花卉植物",
+                   "category": "湿垃圾"
+                 }
+             ]
+         },
+         {
+             "score": 0.749452,
+             "keyword": "瓜叶菊"
+           },
+         {
+             "score": 0.551137,
+             "keyword": "荷兰菊",
+             "list": [
+               {
+                   "name": "荷兰菊",
+                   "category": "湿垃圾"
+                 }
+             ]
+         }
+       ],
+     "qt": 1.376
+   }
